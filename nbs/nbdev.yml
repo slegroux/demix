@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "demix"
+  site-url: "https://slegroux.github.io/demix"
+  description: "music source separation"
+  repo-branch: main
+  repo-url: "https://github.com/slegroux/demix"
