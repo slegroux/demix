@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "demix",
+    "section": "",
+    "text": "toolbox for music source separation"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "demix",
+    "section": "Install",
+    "text": "Install\npip install demix"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "demix",
+    "section": "How to use",
+    "text": "How to use\nTODO"
+  }
+]
